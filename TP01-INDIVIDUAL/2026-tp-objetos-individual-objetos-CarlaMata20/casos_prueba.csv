@@ -1,0 +1,11 @@
+servicio,destino,peso_real,largo,ancho,alto,costo_esperado
+estandar,caba,0.5,20,15,5,500
+express,interior,3,50,50,50,16200
+mismo_dia,caba,0.8,10,10,10,2500
+retiro_en_sucursal,caba,1,10,10,10,350
+estandar,gba,3,10,10,10,1170
+express,patagonia,10,10,10,10,8250
+estandar,interior,5,10,10,10,2340
+estandar,caba,1,100,50,40,13550
+mismo_dia,gba,2,20,20,20,3510
+retiro_en_sucursal,patagonia,7,15,15,15,4070
